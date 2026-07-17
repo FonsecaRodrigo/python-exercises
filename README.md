@@ -1,6 +1,7 @@
 # python-exercises
-Uma coleção de exercícios e pequenos projetos em Python para iniciantes, com foco nos fundamentos da programação.
-A collection of beginner Python exercises and small projects focused on programming fundamentals.
+-Uma coleção de exercícios e pequenos projetos em Python para iniciantes, com foco nos fundamentos da programação.
+
+-A collection of beginner Python exercises and small projects focused on programming fundamentals.
 
 ## 17/07/2026 – Calculadora Simplificada
 
