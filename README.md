@@ -11,7 +11,7 @@ Um aspecto que achei interessante foi perceber como conceitos de lógica de prop
 - Aprendi que as variáveis são sucedidas de '=', onde estará especificado o seu valor;
 - que '==' compara valores, retornando um dado booleano; 
 - que um booleano é um dado que recebe valor de verdadeiro ou falso;
-- if é a condicional se, semelhante à lógica de proposição e é usada para analisar algum parâmetro foi satisfeito (no caso, qual foi a operação escolhida) e como preceder caso tenha sido satisfeito;
+- if é a condicional se, semelhante à lógica de proposição e é usada para analisar algum parâmetro foi satisfeito (no caso, qual foi a operação escolhida) e como proceder caso tenha sido satisfeito;
 - elif como subsidiária do if ou de elif anterior, ou seja, agindo quando os anteriores não tenham sido satisfeitos; 
 - que print exibe alguma informação no terminal; 
 - que aspas duplas são usadas para string, contendo qualquer sequência de caracteres; 
